@@ -67,6 +67,7 @@ Le comportement de Jarvis est entièrement contrôlé par un **prompt système s
   "parameters": {},
   "answer_for_user": "Message destiné à l'utilisateur"
 }
+```
 
 Cette approche garantit :
 
@@ -110,6 +111,7 @@ Cette approche garantit :
 ### Utilisateur
 ```text
 Résume mon dernier mail reçu
+```
 
 
 ### Jarvis
@@ -133,9 +135,9 @@ Résume mon dernier mail reçu
 
 Une vidéo de démonstration accompagne ce projet et présente :
 
-    - l’architecture n8n
-    - le prompt système
-    - plusieurs scénarios d’utilisation en temps réel
+  - l’architecture n8n
+  - le prompt système
+  - plusieurs scénarios d’utilisation en temps réel
 
 ---
 
