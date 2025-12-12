@@ -135,9 +135,9 @@ Résume mon dernier mail reçu
 
 Une vidéo de démonstration accompagne ce projet et présente :
 
-    - l’architecture n8n
-    - le prompt système
-    - plusieurs scénarios d’utilisation en temps réel
+  - l’architecture n8n
+  - le prompt système
+  - plusieurs scénarios d’utilisation en temps réel
 
 ---
 
